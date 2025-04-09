@@ -1,0 +1,1 @@
+esse repositório consiste num código básico que calcula a integral gaussiana numericamente utilizando o método de monte carlo. a ideia surgiu a partir de um exercício em uma aula de MAC0115, durante meu 2o semestre da graduação. 
